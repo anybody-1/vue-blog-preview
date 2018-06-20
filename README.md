@@ -28,5 +28,4 @@ https://anybody-1.github.io/vue-blog-preview/
 ## 项目代码链接(build之后的代码): 
 https://github.com/anybody-1/vue-blog-preview
 
-## 注意
-因引用的API资源接口尚未支持https访问，所以该预览链接只能看到静态资源内容，联网交互会报错，建议将该项目下载到本地再进行访问
+
